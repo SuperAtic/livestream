@@ -1,4 +1,4 @@
-# DJ Livestream
+# Stream Alerts
 
 ## Help DJ's and music producers conduct music livestreams
 
